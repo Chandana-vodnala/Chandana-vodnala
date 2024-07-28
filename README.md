@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://codebasics.io/portfolio/Sri-Chandana](https://codebasics.io/portfolio/Sri-Chandana)
 
-- ⚡ Fun fact **Data is my friend. We talk to each other daily.**
+- ⚡ Fun fact **I have a daily conversation with data; we’re good friends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
